@@ -15,3 +15,5 @@ while True
   time.sleep(1)
   #rstrip: elimina espacios en blanco
   #Timeout
+
+  
